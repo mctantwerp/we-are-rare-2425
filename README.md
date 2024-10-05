@@ -19,3 +19,5 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Daniel Gouzenko](./people/daniel_gouzenko.md)
 * [Jelle Schokkaert](./people/jelle.schokkaert.md)
 * [Metin Sabunci](./people/Metin_Sabunci.md)
+* [Ewoud Ooms](./people/ewoud_ooms.md)
+
